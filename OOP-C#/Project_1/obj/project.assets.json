@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v6.0": {},
+    ".NETFramework,Version=v6.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\tomas.hlavacik\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "R:\\Git\\Dino - C#\\Project_1\\Project_1.csproj",
+      "projectName": "Project_1",
+      "projectPath": "R:\\Git\\Dino - C#\\Project_1\\Project_1.csproj",
+      "outputPath": "R:\\Git\\Dino - C#\\Project_1\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "net60"
+      ],
+      "frameworks": {
+        "net60": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net60": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -12,3 +12,6 @@ D:\Desktop\Visual Studio Stuff\Project_1\Project_1\obj\Debug\net6.0\refint\Proje
 D:\Desktop\Visual Studio Stuff\Project_1\Project_1\obj\Debug\net6.0\Project_1.pdb
 D:\Desktop\Visual Studio Stuff\Project_1\Project_1\obj\Debug\net6.0\Project_1.genruntimeconfig.cache
 D:\Desktop\Visual Studio Stuff\Project_1\Project_1\obj\Debug\net6.0\ref\Project_1.dll
+R:\Git\Dino - C#\Project_1\bin\Debug\net6.0\Project_1.runtimeconfig.json
+R:\Git\Dino - C#\Project_1\bin\Debug\net6.0\Project_1.runtimeconfig.dev.json
+R:\Git\Dino - C#\Project_1\obj\Debug\net6.0\Project_1.pdb
