@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="cz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Opakovani HTML</h1>
+    <a href="kontakty.html">Kontakty</a><br>
+    <img src="Horse.png" width="800" height="600" alt="Horse" title="How hungry...">
+    <table>
+        <tr>
+            <th>1. sloupec</th>
+            <th>2. sloupec</th>
+            <th>3. sloupec</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td colspan="3">1</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td colspan="2">2</td>
+        </tr>
+    </table>
+    <input type="button" value="Tlačítko" onclick="alert(Number(document.getElementById('vstup1').value) + Number(document.getElementById('vstup2').value))">
+    <input id="vstup1" type="number" value="1" onchange="alert(this.value)">
+    <input id="vstup2" type="number" value="1" onchange="alert(this.value)">
+</body>
+</html>

@@ -1,0 +1,25 @@
+body {
+    padding-left: 10%;
+    background-color: #333333;
+    color: antiquewhite;
+    font-size: 2em;
+    font-family: sans-serif;
+}
+tbody{
+    background-color: #444444;
+}
+thead{
+    background-color: #222222;
+}
+input{
+    background-color: #777777;
+    color: #111111;
+    font-size: 1em;
+    font-family: sans-serif;
+    border-radius: 11px;
+}
+table, th, td{
+    border: 0.5px solid #999999;
+    border-collapse: collapse;
+}
+tr:nth-child(even){background-color: #515151;}
